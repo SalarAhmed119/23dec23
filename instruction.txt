@@ -1,0 +1,3 @@
+<starttag property="value">content</endtag>
+
+property="value" ---> attribute
